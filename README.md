@@ -1,0 +1,2 @@
+# Kitscan
+Pantry manager
